@@ -1,0 +1,4 @@
+jar {
+    baseName = 'docker-base'
+    version = '0.1'
+}
